@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">My name is Alex</h1>
-<h3 align="center">A passionate full stack developer from Ukraine</h3>
+<h3 align="center">A junior full stack developer from Ukraine</h3>
 
 - 🌱 I’m currently learning **Ruby, Rails**
 
