@@ -8,17 +8,14 @@
 <p align="center">- 🌱 I’m currently learning Python</p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- X (Twitter) -->
+<p align="left">  
   <a href="https://x.com/PhazZzy" target="blank">
-    <img align="center" 
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-         alt="phazzzy" 
-         height="30" 
-         width="32" />
-  </a>
-  
-  <!-- LinkedIn -->
+  <img align="center" 
+       src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/x.svg" 
+       alt="PhazZzy" 
+       height="30" 
+       width="32" />
+</a>
   <a href="https://linkedin.com/in/olexandr-mandryk-44100994" target="blank">
     <img align="center" 
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
