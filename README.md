@@ -11,7 +11,7 @@
 <p align="left">  
   <a href="https://x.com/PhazZzy" target="blank">
     <img align="center" 
-         src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/x.svg?color=ffffff" 
+         src="https://cdn.simpleicons.org/x/ffffff" 
          alt="PhazZzy" 
          height="30" 
          width="32" />
