@@ -4,12 +4,28 @@
 <h1 align="center">My name is Alex</h1>
 <h3 align="center">A junior full stack developer from Ukraine</h3>
 
-<p align="center">- 🌱 I’m currently learning **Ruby, Rails**</p>
+<p align="center">- 🔭 I’m currently working on my Novaposhta-tracking app</p>
+<p align="center">- 🌱 I’m currently learning Python</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/PhazZzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="phazzzy" height="30" width="32" /></a>
-<a href="https://linkedin.com/in/olexandr-mandryk-44100994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olexandr-mandryk-44100994" height="30" width="32" /></a>
+  <!-- X (Twitter) -->
+  <a href="https://x.com/PhazZzy" target="blank">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+         alt="phazzzy" 
+         height="30" 
+         width="32" />
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/olexandr-mandryk-44100994" target="blank">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="olexandr-mandryk-44100994" 
+         height="30" 
+         width="32" />
+  </a>
 </p>
 
 <h3 align="left">My stack and tools:</h3>
